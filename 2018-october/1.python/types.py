@@ -1,5 +1,6 @@
 a = 10
 print(a)
+print(a)
 #a
 b = 10.6
 print(b)
