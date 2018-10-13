@@ -2,7 +2,7 @@
 #elements could be heterogenous
 list1 = [10,10.5,'abc',True]
 print(type(list1))
-
+#puluthi
 list2 = [[10,20], 'def',[10,True]]
 print(len(list2))
 print(list2[0])
